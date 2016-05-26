@@ -4,7 +4,7 @@
 
 ## Information
 
-Elegant and minimal resume/CV template for designers, developers and professionals in any industry.
+Elegant and minimal resume/CV template for developers and professionals in any industry.
 
 Simple and professional layout for maximizing your impression.
 
