@@ -19,14 +19,19 @@ If you have further questions than don’t hesitate to contact: ```email@francis
 ### Features
 
 A4 size (0.25 inch bleed)
+
 300 dpi, print ready
+
 3 PSD files, CMYK color
+
 Black, White and Green
+
 Easy to edit, fully customizable
 
 #### Files Include
 
 1 PSD
+
 1 JPG
 
 #### Font Used
